@@ -1,0 +1,15 @@
+.gist .gist-file .gist-meta {
+	display: none !important;
+}
+td.js-line-number {
+	display: none !important;
+}
+.notice {
+	border-left: 3px solid rgb(0,151,162);
+	padding-left: 20px;
+	padding-bottom: 2px;
+}
+code {
+	font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+	font-size: 0.9em;
+}
